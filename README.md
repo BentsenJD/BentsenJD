@@ -1,2 +1,0 @@
-# WebsitePortfolio
-Created with CodeSandbox
